@@ -1,3 +1,4 @@
+// Will take a value and iterate through if it is a mult of 3 or 5 will add that to a running sum and return that sum
 using System;
 
 public static class Kata
