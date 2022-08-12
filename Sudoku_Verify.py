@@ -1,4 +1,4 @@
-# Codewars Challenge: verify soduku answer is correct with a 9x9 board
+# Codewars Challenge: verify sudoku answer is correct with a 9x9 board
 def valid_solution(board):
     test_list = []
     check_list = [1,2,3,4,5,6,7,8,9]
